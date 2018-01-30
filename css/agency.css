@@ -184,10 +184,10 @@ header.masthead {
 
 .secondarytext{
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive !important;
-  
+  font-size: 10em !important
 }
-.secondarytext > span{
-  transform: rotate(-27deg) translateY(-10%);
+.rotated{
+  transform: rotate(-27deg) translateY(-10%) !important;
 }
 
 
