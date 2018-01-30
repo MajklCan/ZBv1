@@ -54,30 +54,7 @@ section h3.section-subheading {
   }
 }
 
-.btn {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
-}
 
-.btn-xl {
-  font-size: 18px;
-  padding: 20px 40px;
-}
-
-.btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
-}
-
-.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
-  color: white;
-}
-
-.btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
-}
 
 ::-moz-selection {
   background: #fed136;
@@ -196,7 +173,7 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
-  font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -209,18 +186,10 @@ header.masthead .intro-text .intro-heading {
     font-weight: 700;
     line-height: 75px;
     margin-bottom: 50px;
-    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
 }
-.infobox{
-  width: 45vw;
-  height: 25vh;
-  background-color: white;
-  position: absolute;
-  bottom: -10vh;
-  left: 27.5vw;
-  box-shadow: 0 5px 20px 0 #777;
-}
+
 
 .service-heading {
   margin: 15px 0;
